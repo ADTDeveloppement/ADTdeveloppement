@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Discord](https://img.shields.io/discord/1033034569127047198)]()
 
 # ADT Developpement
 ![Logo](https://images-ext-1.discordapp.net/external/tLMiaPkpMeqarl5jm-0YggBABg30QHcJuQnemgR5s1Q/https/upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%25283-5%2529.svg/langfr-225px-Flag_of_the_United_Kingdom_%25283-5%2529.svg.png?width=150&height=80)
